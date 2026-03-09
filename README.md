@@ -1,4 +1,1 @@
 - 👋 Hi
-
-<div id="my-banner"></div>
-<script src="https://keepandroidopen.org/banner.js?lang=fr&size=mini&id=my-banner"></script>
